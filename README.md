@@ -3,7 +3,7 @@ Love calculator is an android application which calculates the love percentage f
 ## Working
 1. It takes the name of the male from the user.
 2. It takes the name of the female from the user.
-3. And when the user clicks on the submit button the algorithm generates a random number between 1 and 100 and displays it on the screen.
+3. And when the user clicks on the calculate button the algorithm generates a random number between 1 and 100 and displays it on the screen.
 ## Apk
 The apk of this application can be found in the apk folder in the repositries.
 ## Application Output
